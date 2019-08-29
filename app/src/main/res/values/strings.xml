@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Controle Patrimonial</string>
+    <string name="title_activity_itens_conferir">itensConferir</string>
+    <string name="title_activity_inventario_lista">InventarioLista</string>
+</resources>
